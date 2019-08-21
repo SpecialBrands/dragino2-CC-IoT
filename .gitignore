@@ -13,3 +13,4 @@
 /openwrt/.config.orig
 /openwrt/defconfig.log
 /openwrt/key-build*
+*.o
